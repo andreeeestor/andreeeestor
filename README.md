@@ -1,6 +1,10 @@
-## // André Nestor 
+# // André Nestor 
+
+**`Web & Mobile Front-End Developer | Software Engineer`**
 
 <img src="https://i.imgur.com/ejEwxmt.gif" width="100%" />
+
+--- 
 <!--
 **andreeeestor/andreeeestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
