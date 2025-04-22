@@ -4,6 +4,8 @@
 
 <img src="https://i.imgur.com/ejEwxmt.gif" width="100%" />
 
+> "Transformo ideias complexas em interfaces intuitivas e experiências digitais excepcionais. Como um desenvolvedor front-end web e mobile, meu foco é criar soluções que não apenas funcionem perfeitamente, mas também encantem os usuários."
+
 <h1 style="font-size: 28px; font-weight: bold;">👨‍💻Tech Stack</h1>
 
 <div align="center">
